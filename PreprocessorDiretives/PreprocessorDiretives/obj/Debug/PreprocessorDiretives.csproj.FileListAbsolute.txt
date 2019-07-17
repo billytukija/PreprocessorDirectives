@@ -1,0 +1,7 @@
+C:\Users\billy.richard\Documents\GitHub\PreprocessorDirectives\PreprocessorDiretives\PreprocessorDiretives\bin\Debug\PreprocessorDiretives.exe.config
+C:\Users\billy.richard\Documents\GitHub\PreprocessorDirectives\PreprocessorDiretives\PreprocessorDiretives\bin\Debug\PreprocessorDiretives.exe
+C:\Users\billy.richard\Documents\GitHub\PreprocessorDirectives\PreprocessorDiretives\PreprocessorDiretives\bin\Debug\PreprocessorDiretives.pdb
+C:\Users\billy.richard\Documents\GitHub\PreprocessorDirectives\PreprocessorDiretives\PreprocessorDiretives\obj\Debug\PreprocessorDiretives.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\PreprocessorDirectives\PreprocessorDiretives\PreprocessorDiretives\obj\Debug\PreprocessorDiretives.csproj.CoreCompileInputs.cache
+C:\Users\billy.richard\Documents\GitHub\PreprocessorDirectives\PreprocessorDiretives\PreprocessorDiretives\obj\Debug\PreprocessorDiretives.exe
+C:\Users\billy.richard\Documents\GitHub\PreprocessorDirectives\PreprocessorDiretives\PreprocessorDiretives\obj\Debug\PreprocessorDiretives.pdb
